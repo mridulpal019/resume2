@@ -1,0 +1,60 @@
+{
+	"basics": {
+		"name": "Mridul Kumar Pal",
+		"label": "Student",
+		"picture": "https://github.com/mridulpal019",
+		"email": "2020KUCP1039@gmail.com",
+		"phone": "9650496361",
+		
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+		"location": {
+			"address": "R-182 HIG DUPLEX sector-12 Pratap Vihar,ghaziabad UTTAR PRADESH",
+			"postalCode": "201009",
+			"city": "Ghaziabad",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "https://twitter.com/pal_mridul"
+			},
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://github.com/mridulpal019"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/mridul-pal-b47954100/"
+			}
+
+		]
+	},
+
+
+
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-01 ",
+		"endDate": "----",
+		"gpa": "---",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+
+
+	"skills": [{
+		"level": "Beginner",
+		"keywords": ["HTML", "CSS", "Javascript", "Python", "C/C++", "Mysql", "php"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Cricket"]
+	}]
+
+}
