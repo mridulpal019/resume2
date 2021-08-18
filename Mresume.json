@@ -38,10 +38,10 @@
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
-		"studyType": "Bachelor (hons)",
+		"studyType": "Bachelor ",
 		"startDate": "2020-12-01 ",
-		"endDate": "----",
-		"gpa": "---",
+		
+		
 		"courses": [
 			"Computer Science & Engineering"
 		]
