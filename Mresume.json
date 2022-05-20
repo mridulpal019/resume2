@@ -50,7 +50,7 @@
 
 	"skills": [{
 		"level": "Beginner",
-		"keywords": ["HTML", "CSS", "Javascript", "Python", "C/C++", "Mysql", "php","Node","express","mongoDB"]
+		"keywords": ["HTML", "CSS", "Javascript", "Python", "C/C++", "Mysql", "php","Node.js","Express","MongoDB"]
 	}],
 	"interests": [{
 		"name": "Sports",
