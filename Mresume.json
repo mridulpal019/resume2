@@ -27,7 +27,11 @@
 			{
 				"network": "linkedin",
 				"username": "username",
-				"url": "https://www.linkedin.com/in/mridul-pal-b47954100/"
+				"url": "https://www.linkedin.com/in/mridul-pal"
+			},{
+				"network":"Leetcode",
+				"username":"mridulpal",
+				"url":"https://leetcode.com/mridulpal";
 			}
 
 		]
@@ -38,7 +42,7 @@
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
-		"studyType": "Bachelor ",
+		"studyType": "Bachelor",
 		"startDate": "2020-12-01 ",
 		
 		
@@ -50,7 +54,7 @@
 
 	"skills": [{
 		"level": "Beginner",
-		"keywords": ["HTML", "CSS", "Javascript", "Python", "C/C++", "Mysql", "php","Node.js","Express","MongoDB"]
+		"keywords": ["HTML", "CSS", "Javascript", "Python", "C/C++", "Mysql", "php","Node.js","Express","MongoDB","AWS","React-js"]
 	}],
 	"interests": [{
 		"name": "Sports",
